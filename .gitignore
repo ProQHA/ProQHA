@@ -1,0 +1,11 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyc
+
+pretrained/
+/.vscode
+.DS_Store
+models/.DS_Store
+scripts/.DS_Store
